@@ -5,7 +5,11 @@ An interactive dashboard is created that displays the results of belly button ba
 
 
 ## Tools
-The data is public and uploaded via a url using the d3.json() function. A javascript app runs the webpage.
+The data is public and uploaded via a url using the d3.json() function. A javascript app runs the webpage. Various html elements are created including:
+* a dropdown list
+* a horizontal bar chart
+* a bubble chart
+* a panel to display individual demographic data
 
 
 ## Results
