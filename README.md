@@ -13,4 +13,4 @@ The data is public and uploaded via a url using the d3.json() function. A javasc
 
 
 ## Results
-The javascript app and html code can be found in the project files. Here is a link to view the webpage: 
+The javascript app and html code can be found in the project files. Here is a link to view the webpage: [Belly Button Dashboard](https://github.com/robotscott94/JavaScript-Dashboard-BB)
